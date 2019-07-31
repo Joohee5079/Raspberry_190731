@@ -1,0 +1,7 @@
+# Raspberry_190731
+스위치
+
+
+1. Floating -> pull up, pull down 필수
+ - 저항을 달아두지 않으면 오작동을 할 수 있다.
+2. chattering ->
